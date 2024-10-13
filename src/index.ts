@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import { program } from "commander";
 import { readFile } from "fs/promises";
 import { title } from "process";
